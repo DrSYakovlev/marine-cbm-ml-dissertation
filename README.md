@@ -613,27 +613,7 @@ All modelling decisions, encountered errors, and corrective steps are documented
 
 Meilad Rahmani — Marine Engineering MSc  
 2026
-
 ---
-
-## 📍 Author
-
-Meilad Rahmani — Marine Engineering MSc  
-2026
----
-
-## 📍 Author
-
-Meilad Rahmani — Marine Engineering MSc  
-2026
----
-
-## 📍 Author
-
-Meilad Rahmani — Mechanical Engineering 
-2026
-
-
 
 
 
