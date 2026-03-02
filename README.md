@@ -202,6 +202,27 @@ pip install -r requirements.txt
 
 Note: Some notebooks require Kaggle API credentials.
 
+## 📚 Code References & Reused Concepts
+
+The following external resources were consulted during development:
+
+- Scikit-learn official documentation for model implementation:
+  https://scikit-learn.org/
+
+- Kaggle API documentation for dataset download:
+  https://www.kaggle.com/docs/api
+
+- Learning curve implementation based on:
+  https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.learning_curve.html
+
+All code was written and adapted specifically for this project. No external notebooks were directly copied.
+
+## ⚠ Known Limitations
+
+- Models were trained on static tabular snapshots rather than time-series sequences.
+- Hyperparameter tuning was limited to grid search due to computational constraints.
+- Feature engineering was limited to raw sensor measurements without domain-specific transformations.
+
 ## 📌 Notes
 - Colab session storage is temporary → mounting Google Drive is recommended for persistence.
 - All notebooks are designed to be one-click executable from start to end.
