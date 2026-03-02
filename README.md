@@ -199,6 +199,7 @@ pip install -r requirements.txt
 3. Run notebook in order:
 
 01 → 02 → 03 → 04 → 05 → 06
+
 Note: Some notebooks require Kaggle API credentials.
 
 ## 📌 Notes
